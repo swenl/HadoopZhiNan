@@ -65,7 +65,7 @@
                     <archive>
                         <manifest>
 <!--                            <mainClass>com.atguigu.mr.WordcountDriver</mainClass>-->
-                            <mainClass>wordcount.WcDriver</mainClass>
+                            <mainClass>com.wenl.wordcount.WcDriver</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

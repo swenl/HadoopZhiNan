@@ -1,4 +1,4 @@
-package wordcount;
+package com.wenl.wordcount;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

@@ -1,4 +1,4 @@
-package wordcount;
+package com.wenl.wordcount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
