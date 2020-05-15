@@ -1,0 +1,9 @@
+hadoop spark scala
+aaa
+bb xxx scala kafka zookeeper
+hadoop hdfs mr
+mr
+mr
+aaa
+bb xxx scala kafka zookeeper
+hadoop hdfs mr
